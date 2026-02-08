@@ -15,18 +15,3 @@
 - `Player tracking model.ipynb` — файл для использования обученной модели для отслеживания футболистов.
 
 Все библиотеки и зависимости которые необходимо установить указаны в файлах.
-
-## 1.1 Обучение модели
-Модель была обучена со следующими параметрами:
-```python
-!yolo task=detect mode=train model=yolov8x.pt data = {dataset.location}/data.yaml batch=6 epochs=90 imgsz=1280 patience=15 plots=True
-```
-## 1.2 Результаты обучения
-
-Матрица ошибок:
-<img width="746" height="558" alt="image" src="https://github.com/user-attachments/assets/72e1370a-51ed-4b5e-85d8-f7bd494469cc" />
-
-Результаты:
-<img width="749" height="375" alt="image" src="https://github.com/user-attachments/assets/075b6815-5726-4893-b327-9ec7e7529b31" />
-
-## 2
