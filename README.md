@@ -13,6 +13,11 @@
 
 [![Смотреть видео на YouTube](https://img.youtube.com/vi/ANkm4wJMDBg/0.jpg)](https://youtu.be/ANkm4wJMDBg)
 
+
+Все другие промежуточные видео представлены в папке ниже:
+
+[Intermediate_videos_for_player_detection](https://drive.google.com/drive/folders/1z1u4HEi14pcatCDd-MW7dhwCXSY6fzpp?usp=sharing)
+
 ## Структура проекта
 
 Проект состоит из трёх файлов:
